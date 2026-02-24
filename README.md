@@ -64,3 +64,9 @@ Displays:
 Map colors:
 - 🔵 Normal
 - 🔴 Idling
+
+- <img width="1911" height="967" alt="image" src="https://github.com/user-attachments/assets/b9aebf9d-140b-429a-943a-19fcd7e502a0" />
+
+
+<img width="1916" height="969" alt="image" src="https://github.com/user-attachments/assets/2c1f95a2-3a4e-42cc-9ee6-dde1997af025" />
+
