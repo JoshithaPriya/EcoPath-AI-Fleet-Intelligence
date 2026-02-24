@@ -1,4 +1,4 @@
-# 🚛 EcoPath AI – Fleet Intelligence
+# 🚛 EcoPath  – Fleet Intelligence
 
 ## 🔹 Project Overview
 
