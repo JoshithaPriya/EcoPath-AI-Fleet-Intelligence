@@ -1,17 +1,12 @@
 🚛 EcoPath AI
-
 Real-Time Fleet Telemetry & CO₂ Monitoring Pipeline
 
 🔹 Project Overview
-
 EcoPath AI is a real-time streaming system that monitors a hybrid fleet of 4 trucks.
-
 Modern trucks → Send J1939 fuel rate data
-
 Legacy trucks → GPS-only, fuel estimated using physics
 
 The system:
-
 Standardizes fuel data
 
 Calculates actual fuel consumption
