@@ -1,6 +1,6 @@
 # 🚛 EcoPath  – Fleet Intelligence
 
-## 🔹 Project Overview
+##  Project Overview
 
 EcoPath AI is a real-time fleet telemetry pipeline.
 
@@ -20,13 +20,13 @@ Deployed via **Google Colab + Ngrok**
 
 ---
 
-## 🔄 How It Works (Short Flow)
+##  How It Works (Short Flow)
 generator.py → main.py → live_dashboard_data.csv → dashboard.py
 
 
 ---
 
-## 1️⃣ generator.py
+## 1️ generator.py
 
 Simulates live telemetry every 2 seconds:
 
@@ -38,7 +38,7 @@ Simulates live telemetry every 2 seconds:
 
 ---
 
-## 2️⃣ main.py (Pathway Streaming)
+## 2️ main.py (Pathway Streaming)
 
 Performs:
 
@@ -52,7 +52,7 @@ live_dashboard_data.csv
 
 ---
 
-## 3️⃣ dashboard.py (Streamlit)
+## 3️ dashboard.py (Streamlit)
 
 Displays:
 
